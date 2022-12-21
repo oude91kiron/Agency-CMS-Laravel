@@ -50,7 +50,7 @@
                             </th>
                             <th> Agency Created </th>
                             <th> Lands you added </th>
-                            <th> Lands Value </th>
+                            <th> Lands Total Value </th>
                           </tr>
                         </thead>
                         <tbody>
@@ -114,7 +114,7 @@
                             <td> 02312/b </td>
                             <td> Conrer </td>
                             <td> South and east </td>
-                            <td> 152 m2 </td>
+                            <td> 911 m2 </td>
                             <td> 1254 </td>
                             <td> 3,500,000 $ </td>
                             

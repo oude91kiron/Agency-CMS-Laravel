@@ -36,8 +36,18 @@
             <div class="row ">
               <div class="col-12 grid-margin">
                 <div class="card">
-                  <div class="card-body">
-                    <h4 class="card-title">Agencies Table</h4>
+                  <div class="row card-body">
+                    <div class="col-8 grid-margin">
+                      <h4 class="card-title">Lands Table</h4>
+                    </div>
+                    <div class="col-4 grid-margin text-right">
+                      <a class=" btn btn-primary create-new-button my-3" href="{{route('land.create')}}">Add New Land + </a>
+                      
+                      <form class="inline" action="">
+                        <input placeholder="Search" type="text">
+                      </form>
+                    </div>
+                    
                     <div class="table-responsive">
                       <table class="table">
                         <thead>
